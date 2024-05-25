@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ImWc30RfiVFm2FQsy4kQ+NkZbxGnWTTQSQYkHasuwds=",
+  "Source": "PeliculasApi",
+  "BasePath": "_content/PeliculasApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasApi\\wwwroot",
+      "Source": "PeliculasApi",
+      "ContentRoot": "C:\\Users\\admin\\source\\repos\\PeliculasApi\\PeliculasApi\\wwwroot\\",
+      "BasePath": "_content/PeliculasApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
